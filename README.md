@@ -31,7 +31,7 @@ A desktop-based Inventory Management System built with Python. Features a modern
 ```
 inventory-manager/
 │
-├── inventory_manager.py   # Main application
+├── ims.py   # Main application
 ├── inventory.csv          # Auto-generated on first run
 ├── setup.bat              # Dependency installer for Windows
 ├── setup.sh               # Dependency installer for Linux/macOS
